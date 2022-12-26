@@ -1,0 +1,6 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+/home/test/flask-login/virtualenv/lib/python3.7/site-packages/flask_sqlalchemy/__init__.py:873: FSADeprecationWarning: SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and will be disabled by default in the future.  Set it to True or False to suppress this warning.
+  'SQLALCHEMY_TRACK_MODIFICATIONS adds significant overhead and '
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
